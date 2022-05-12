@@ -2,6 +2,8 @@
   "name": "kauaug/pkit",
   "type": "project",
   "description": "The Pkit Framework.",
+  "version": "1.0.0",
+  "time": "2022-05-12",
   "keywords": [
     "framework",
     "pkit",
